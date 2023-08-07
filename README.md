@@ -21,3 +21,14 @@ To run Technical Assignment , make sure you have the following:
 - PHP 7.4 or newer.
 
 ---
+## Run Using Composer
+
+To run Technical Assignment on your computer, follow these steps:
+
+1. Clone the repository: `git clone https://github.com/Dahkenangnon/PhpFromZero.git`
+2. Run the following command in the project directory:
+```bash
+php Actions/LangFiles/ReorderingFilesAction.php
+```
+
+---
