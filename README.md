@@ -1,6 +1,6 @@
 # Technical Assignment (TAMATEM GAME)
 
-![Banner Image](doc/assets/phpfromzero_banner.png)
+![Banner Image](doc/assets/TamTaskScreen.PNG)
 
 <p align="center">
   <b>
