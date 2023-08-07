@@ -14,3 +14,10 @@
 - **Apply SOLID Principles**: The overall goal of SOLID principles is to reduce dependencies so that engineers can change one area of the software without affecting others. In addition, they are intended to make designs easier to understand, maintain and extend.
 
 ---
+## Requirements
+
+To run Technical Assignment , make sure you have the following:
+
+- PHP 7.4 or newer.
+
+---
