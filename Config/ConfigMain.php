@@ -4,7 +4,7 @@ namespace Config;
 
 class ConfigMain{
 
-    private static $MAIN_URL = "http://localhost/TamatemAssignment/";
+    private static $MAIN_URL = "http://localhost/g_t_task/";
 
 
     public static function getMainUrl(){
