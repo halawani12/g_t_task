@@ -25,7 +25,7 @@ To run Technical Assignment , make sure you have the following:
 
 To run Technical Assignment on your computer, follow these steps:
 1. Go to htdocs folder or www folder
-1. Clone the repository: `git clone https://github.com/Dahkenangnon/PhpFromZero.git`
+1. Clone the repository: `git clone https://github.com/halawani12/g_t_task.git`
 2. Run the following command in the project directory:
 ```bash
 php Actions/LangFiles/ReorderingFilesAction.php
