@@ -1,6 +1,6 @@
 # Technical Assignment (TAMATEM GAME)
 
-![Banner Image](doc/assets/TamTaskScreen.PNG)
+![Banner Image](doc/assets/TamTaskScreen.png)
 
 <p align="center">
   <b>
