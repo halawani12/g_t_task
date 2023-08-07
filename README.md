@@ -21,12 +21,22 @@ To run Technical Assignment , make sure you have the following:
 - PHP 7.4 or newer.
 
 ---
+
+## Run from web server
+
+To run Technical Assignment on web server, follow these steps:
+1. Go to htdocs folder or www folder
+2. Run the following command to clone the repository: `git clone https://github.com/halawani12/g_t_task.git`
+3. From borwser go to : http://localhost/g_t_task/
+
+---
+
 ## Run using command line
 
 To run Technical Assignment on your computer, follow these steps:
 1. Go to htdocs folder or www folder
-1. Clone the repository: `git clone https://github.com/halawani12/g_t_task.git`
-2. Run the following command in the project directory:
+2. Run the following command to clone the repository: `git clone https://github.com/halawani12/g_t_task.git`
+3. Run the following command to reorder files:
 ```bash
 php Actions/LangFiles/ReorderingFilesAction.php
 ```
@@ -37,4 +47,4 @@ php Actions/LangFiles/ReorderingFilesAction.php
 
 - Languages files exist in public/files/LangFiles
 
----
+
