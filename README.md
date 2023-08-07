@@ -17,7 +17,7 @@
 ## Requirements
 
 To run Technical Assignment , make sure you have the following:
-
+- Wamp or Xampp installed and configured.
 - PHP 7.4 or newer.
 
 ---
