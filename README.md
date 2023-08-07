@@ -21,7 +21,7 @@ To run Technical Assignment , make sure you have the following:
 - PHP 7.4 or newer.
 
 ---
-## Run Using Composer
+## Run using command line
 
 To run Technical Assignment on your computer, follow these steps:
 1. Go to htdocs folder or www folder
@@ -33,8 +33,8 @@ php Actions/LangFiles/ReorderingFilesAction.php
 
 ---
 
-## Note
+## Notes
 
-languages files exist in public/files/LangFiles
+- Languages files exist in public/files/LangFiles
 
 ---
