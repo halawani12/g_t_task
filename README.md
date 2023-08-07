@@ -32,3 +32,9 @@ php Actions/LangFiles/ReorderingFilesAction.php
 ```
 
 ---
+
+## Note
+
+languages files exist in public/files/LangFiles
+
+---
